@@ -1,0 +1,6 @@
+name: VersaiForm
+version: 1.0.0
+api: 3.0.0
+main: Core\usd\Loader
+description: VeRsAiDevTestEr
+author: Usd.#6666
